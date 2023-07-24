@@ -7,14 +7,6 @@ date: 2023-02-03
 location: "Macrogen Europe, Amsterdam""
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-
-Headings
-======
-
-Subheadings
-------
-
 # Work List
 
 *Changlin Ke*
