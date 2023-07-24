@@ -1,3 +1,4 @@
+---
 title: "Work list of ongoing and completed projects""
 collection: talks
 type: "Talk"
