@@ -1,10 +1,10 @@
 ---
-title: "Work list of ongoing and completed projects""
+title: "Work list of ongoing and completed projects"
 collection: talks
 type: "Talk"
 permalink: /talks/workList
 date: 2023-02-03
-location: "Macrogen Europe, Amsterdam""
+location: "Macrogen Europe, Amsterdam"
 ---
 
 # Work List
